@@ -86,4 +86,8 @@ GitHub: [shlokmodi29](https://github.com/shlokmodi29)
 
 ## 📜 License
 
-This project is licensed under the **No License**.
+This project is licensed under the ** MIT License **.
+
+---
+
+⭐ If you like this project, consider giving it a **Star** on GitHub!
